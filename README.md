@@ -1,4 +1,4 @@
-# 🏪 Dynora 24/7 Shop System v1.0
+# 🏪 Dynora 24/7 Shop System v1.0.0
 
 Ein modernes, GTA-Style DarkRP Shop-System mit Job-Lock, sicherem Entity-Spawning und FPP/SAM Kompatibilität.
 
