@@ -1,0 +1,11 @@
+"AddonInfo"
+{
+    "name"              "Dynora F8-Shop Addon"
+    "version"           "1"
+    "up_date"           "00/00/00"
+    "author_name"       "DarkNinja"
+    "author_email"      "hahn.dominic@proton.me"
+    "author_url"        "https://github.com/DarkNinja-Lab"
+    "info"              "F8 Shop Menü für DarkRP"
+    "override"          "0"
+}
